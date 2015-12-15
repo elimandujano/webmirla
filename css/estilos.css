@@ -1,0 +1,50 @@
+@charset "utf-8";
+<style type="text/css">
+
+header{
+	background-size:100vw 100vh;
+	alignment-adjust:central;	
+}
+
+body,td,th {
+	font-size: 14px;
+}
+body {
+	background-image:url(../img/fondo_verde.jpg);
+	background-size:100vw 100vh;
+	background-attachment:fixed;
+	margin:0;
+	font-family:"Lucida Grande";
+	font-color: white;
+	
+	
+}
+
+section{
+	
+	color:rgba(255,255,255,1);
+}
+
+table {
+	background-color:rgba(0,0,0,0.6);
+	border:1px solid:#F39;		
+}
+table tr:hover {
+	border:1px solid:#00F;
+	background-color:rgba(0,0,0,1);
+}
+#busqueda {
+	border:1px;
+	
+}
+
+.titulo{
+	background-color:rgba(0,0,0,0.9);
+	
+}
+
+@media (max-width: 320px){
+	form{width:100%;}
+	table{width:100%;	
+}
+</style>

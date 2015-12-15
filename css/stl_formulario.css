@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background-image:url(../img/fondo_flores.jpg);
+background-size:100vw 100vh;
+background-attachment:fixed;
+
+	
+	
+	}
+	
+form{
+	
+	
+	width: 450px;
+	margin:auto;
+	background-color:rgba(0,0,0,0.5);
+	padding: 10px 20px;
+	box-sizing:border-box;
+	margin-top: 20px;
+	border-radius:7px;	
+	
+	
+	}
+h2{color:rgba(255,255,255,1);
+text-align:center;
+margin:20px;
+font-size:30px;
+margin-bottom:20px;
+}
+#registrar{
+	width:100%;
+	box-sizing:border-box;
+	border:none;
+	padding:7px;
+	background:rgba(0,0,51,1);
+	color:rgba(204,204,204,1);
+	padding:20px;
+
+}
+#registrar:hover{cursor:pointer;}
