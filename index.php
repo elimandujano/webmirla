@@ -12,7 +12,7 @@
 
     <footer>
         <h5>todos los derechos reservados </h5>
-        <a>http://localhost/wemirla/consultamodelos.php</a>
+        <a href="http://localhost/webmirla/consultamodelos.php ">Ir a Productos</a>
         
     </footer>
     
