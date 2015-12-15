@@ -4,10 +4,7 @@
 body{background-image:url(../img/fondo_flores.jpg);
 background-size:100vw 100vh;
 background-attachment:fixed;
-
-	
-	
-	}
+}
 	
 form{
 	
@@ -21,7 +18,7 @@ form{
 	border-radius:7px;	
 	
 	
-	}
+}
 h2{color:rgba(255,255,255,1);
 text-align:center;
 margin:20px;
